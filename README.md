@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 
   This project is a small project i am doing just to learn a new module in python.
+  In this project I am using a python moudle called serelium to automate whatsapp msg so whenever a particular event happen the script will msg me on my whatapp.
 
 <!---
 amanxrawat/amanxrawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
